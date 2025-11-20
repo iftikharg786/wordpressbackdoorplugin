@@ -3,7 +3,7 @@
 Plugin Name: Super Admin Exclusive
 Description: Super role exists only for Super user. Hidden from everyone else, full functionality retained.
 Version: 1.2
-Author: You
+Author: yellwohoster
 */
 
 if (!defined('ABSPATH')) exit;
