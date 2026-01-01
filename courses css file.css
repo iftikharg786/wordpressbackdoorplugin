@@ -1,0 +1,11 @@
+.header-search-bar,.header-category-menu{
+	display:none !important;
+}
+.text-color {
+    color: #ffffff;
+}
+span.students {
+	display: none !important;}
+ div.tutor-card-footer > ul > li:nth-child(2){
+	display:none !important;
+}

